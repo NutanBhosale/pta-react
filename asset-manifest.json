@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/NutanBhosale/pta-react.git/static/css/main.b100e6da.chunk.css",
+    "main.js": "/NutanBhosale/pta-react.git/static/js/main.e7caef19.chunk.js",
+    "main.js.map": "/NutanBhosale/pta-react.git/static/js/main.e7caef19.chunk.js.map",
+    "runtime-main.js": "/NutanBhosale/pta-react.git/static/js/runtime-main.cf6ca74a.js",
+    "runtime-main.js.map": "/NutanBhosale/pta-react.git/static/js/runtime-main.cf6ca74a.js.map",
+    "static/js/2.f7ca0266.chunk.js": "/NutanBhosale/pta-react.git/static/js/2.f7ca0266.chunk.js",
+    "static/js/2.f7ca0266.chunk.js.map": "/NutanBhosale/pta-react.git/static/js/2.f7ca0266.chunk.js.map",
+    "index.html": "/NutanBhosale/pta-react.git/index.html",
+    "precache-manifest.4353e8a12641add8f250a1c47db66071.js": "/NutanBhosale/pta-react.git/precache-manifest.4353e8a12641add8f250a1c47db66071.js",
+    "service-worker.js": "/NutanBhosale/pta-react.git/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/NutanBhosale/pta-react.git/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf6ca74a.js",
+    "static/js/2.f7ca0266.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.e7caef19.chunk.js"
+  ]
+}
